@@ -1,13 +1,11 @@
 ## Computação Visual (2026.2)
-Prof. Seu Nome
+Matteo Porcare
 
 ## Sobre
 
-Na disciplina Computação Visual, proponho uma atividade em que cada aluno deve criar e manter um blog sobre a disciplina usando o GitHub Pages.
-
-Deixo livre para cada pessoa escolher o que compartilhar no blog...
+Este blog registra minha jornada pela disciplina de Computação Visual com o professor André Kishimoto, documentando como um desenvolvedor focado em back-end passa a explorar e se conectar com uma área até então distante do seu dia a dia.
 
 ## Posts
 
-1. [Computação Visual?](01_cv) (12/08/2026)
-2. [Computação Gráfica, Compugrafia ou Compugráfica?](02_compugrafia) (18/08/2026)
+1. [Computação Visual?](01) (23/08/2026)
+2. [Computação Gráfica, Compugrafia ou Compugráfica?](02) (23/08/2026)
