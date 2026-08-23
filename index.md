@@ -8,4 +8,4 @@ Este blog registra minha jornada pela disciplina de Computação Visual com o pr
 ## Posts
 
 1. [Computação Visual?](01) (23/08/2026)
-2. [Computação Gráfica, Compugrafia ou Compugráfica?](02) (23/08/2026)
+2. [Ray Tracing](02) (23/08/2026)
