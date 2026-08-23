@@ -1,5 +1,3 @@
-# [cv262](https://matteoporcare.github.io)
-
 ## Computação Visual (2026.2)
 Prof. Seu Nome
 
