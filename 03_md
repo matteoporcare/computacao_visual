@@ -1,1 +1,14 @@
 
+# Busca por Imagem: Como o Google Lens "Enxerga" o Mundo
+
+A busca por imagem mudou a forma como pesquisamos na internet. Em vez de tentar descrever um objeto com palavras, basta tirar uma foto ou enviar um arquivo para que o sistema identifique exatamente do que se trata.
+
+## Como funciona nos bastidores
+
+* **Extração de características:** O algoritmo analisa a foto e mapeia elementos como cores, formas, bordas e texturas.
+* **Vetorização:** Essas características visuais são convertidas em uma representação matemática (um vetor numérico).
+* **Comparação em milissegundos:** O sistema compara esse vetor com um banco de dados contendo bilhões de imagens já catalogadas, encontrando os padrões mais parecidos quase instantaneamente.
+
+---
+
+Para saber mais sobre a evolução dessa tecnologia e como a visão computacional é aplicada na pesquisa visual, vale conferir a documentação sobre [Visão Computacional na Google Cloud](https://cloud.google.com/vision).
