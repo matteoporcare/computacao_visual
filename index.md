@@ -9,3 +9,4 @@ Este blog registra minha jornada pela disciplina de Computação Visual com o pr
 
 1. [Computação Visual?](01) (23/08/2026)
 2. [Ray Tracing](02) (23/08/2026)
+3. [Busca por Imagem](03) (29/08/2026)
