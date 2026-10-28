@@ -13,3 +13,4 @@ Este blog registra minha jornada pela disciplina de Computação Visual com o pr
 4. [Detecção de Bordas](04) (15/09/2026)
 5. [Navegação sem GPS](05) (28/09/2026)
 6. [Efeito Moiré](06) (13/10/2026)
+7. [Equalização de Histograma](07) (27/10/2026)
